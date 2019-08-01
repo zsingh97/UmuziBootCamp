@@ -1,2 +1,0 @@
-# UmuziBootCamp
-Final Project
